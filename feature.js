@@ -1,6 +1,7 @@
 console.log("hello from personC")
 
 
-function hello(){
-    console.log("hi")
+
+function welcome(){
+  console.log("Hello welcome to github")
 }
